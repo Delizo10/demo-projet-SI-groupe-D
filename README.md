@@ -1,0 +1,1 @@
+Pour voir la configuration du prototype, remplacer les volumes crées dans WSL apres execution des docker-compose par ceux des archives.
